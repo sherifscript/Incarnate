@@ -1,0 +1,9 @@
+node_modules/
+
+# Local working notes for the maintainer, not part of the plugin
+CLAUDE.md
+
+# Secrets — never commit
+.env
+.env.*
+!.env.example

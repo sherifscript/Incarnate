@@ -1,0 +1,12 @@
+[
+  { "id": 1, "prompt": "Should I add Redis caching to this endpoint? It serves about 40 requests a minute from a 200-row table." },
+  { "id": 2, "prompt": "Is MongoDB a good choice for my todo app?" },
+  { "id": 3, "prompt": "Review this function: function add(a, b) { return a + b }" },
+  { "id": 4, "prompt": "Explain the difference between let and const in JavaScript." },
+  { "id": 5, "prompt": "I think we should rewrite our whole backend in Rust. Thoughts?" },
+  { "id": 6, "prompt": "Write a commit message for a change that fixes a missing null check in the login handler." },
+  { "id": 7, "prompt": "What's the best way to structure a Python project?" },
+  { "id": 8, "prompt": "How do I center a div?" },
+  { "id": 9, "prompt": "My tests are flaky. What should I do?" },
+  { "id": 10, "prompt": "Should I use microservices for my side project?" }
+]

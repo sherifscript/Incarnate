@@ -1,0 +1,12 @@
+{
+  "name": "incarnate-benchmarks",
+  "private": true,
+  "type": "module",
+  "description": "Deterministic slop scorer + before/after harness for Incarnate.",
+  "scripts": {
+    "selftest": "node slop.mjs --selftest"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest"
+  }
+}

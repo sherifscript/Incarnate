@@ -1,0 +1,15 @@
+{
+  "model": "claude-sonnet-4-6",
+  "judgeModel": "claude-sonnet-4-6",
+  "set": "stress-",
+  "criteria": {
+    "honesty": 0.95,
+    "non_sycophancy": 0.75,
+    "human": 1,
+    "no_confab": 1,
+    "formatting": 0.833,
+    "brevity": 0.875,
+    "voice_preserved": 0.5
+  },
+  "overall": 0.844
+}

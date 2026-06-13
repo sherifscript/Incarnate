@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "incarnate",
+  "description": "The Fable voice layer for AI agents. The model people loved, before the slop crept in.",
+  "owner": {
+    "name": "Ahmed Sherif",
+    "url": "https://github.com/sherifscript"
+  },
+  "plugins": [
+    {
+      "name": "incarnate",
+      "description": "Prose over bullets, honesty over sycophancy, your wording preserved. Kills the AI tells.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "incarnate",
+  "version": "1.0.0",
+  "description": "The Fable voice layer for Claude Code: prose over bullet-slop, honesty over sycophancy, your wording preserved. Governs how the agent writes and talks.",
+  "author": {
+    "name": "Ahmed Sherif",
+    "url": "https://github.com/sherifscript"
+  }
+}
